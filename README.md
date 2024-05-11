@@ -9,34 +9,34 @@ This project simulates hadron therapy treatments using the Geant4 toolkit.
 
 ```bash
 git clone https://github.com/UcenELma/hadrontherapie
-
+```
 
 3. Navigate to the project directory:
 
-Bash
+```Bash
 
 cd hadrontherapie
-
+```
 
 
 4. Create a build directory and run CMake:
 
-Bash
+```Bash
 
 mkdir build
 cd build
 cmake ..
-
+```
 
 5. Build the project:
-
+```
 Bash
 
 make
-
+```
 6.Usage
 
 Run the simulation with:
-Bash
+```Bash
 
 ./sim
