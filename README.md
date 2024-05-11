@@ -29,8 +29,8 @@ cmake ..
 ```
 
 5. Build the project:
-```
-Bash
+
+```Bash
 
 make
 ```
