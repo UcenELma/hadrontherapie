@@ -1,4 +1,4 @@
-# Install script for directory: /home/hocine/sim
+# Install script for directory: /home/hocine/Bureau/PFE/Git projects/hadrontherapie/first-sim
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hocine/sim/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hocine/Bureau/PFE/Git projects/hadrontherapie/first-sim/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

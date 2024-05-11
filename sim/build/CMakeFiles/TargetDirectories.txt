@@ -1,4 +1,0 @@
-/home/hocine/sim/build/CMakeFiles/sim.dir
-/home/hocine/sim/build/CMakeFiles/Simulation.dir
-/home/hocine/sim/build/CMakeFiles/edit_cache.dir
-/home/hocine/sim/build/CMakeFiles/rebuild_cache.dir

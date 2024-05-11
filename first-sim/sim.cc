@@ -6,7 +6,6 @@
 #include "G4VisExecutive.hh"
 #include "G4UIExecutive.hh"
 
-
 int main(int argc, char** argv)
 {
     G4RunManager *runManager = new G4RunManager();
@@ -18,7 +17,7 @@ int main(int argc, char** argv)
 
     G4UImanager *UImanager = G4UImanager::GetUIpointer();
 
-    ui->SessionStart(); // Add semicolon here
+    ui->SessionStart();
 
     return 0;
 }
