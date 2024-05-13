@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/sim.dir/construction.cc.o"
+  "CMakeFiles/sim.dir/construction.cc.o.d"
   "CMakeFiles/sim.dir/sim.cc.o"
   "CMakeFiles/sim.dir/sim.cc.o.d"
   "sim"
