@@ -4,7 +4,7 @@ This project simulates hadron therapy treatments using the Geant4 toolkit.
 
 ## Installation
 
-1. Make sure you have Git and CMake installed.
+1. Make sure you have cmake cmake-curses-gu gcc g++ libexpatl-dev qt5-default libxmu-dev libmotif-dev installed.
 2. Clone this repository:
 
 ```bash
