@@ -18,7 +18,6 @@ git clone https://github.com/UcenELma/hadrontherapie
 cd hadrontherapie
 ```
 
-
 4. Create a build directory and run CMake:
 
 ```Bash
