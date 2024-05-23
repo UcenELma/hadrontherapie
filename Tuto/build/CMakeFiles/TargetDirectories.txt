@@ -1,4 +1,0 @@
-/Users/ELMAHBOUBY/Desktop/GEANT4/works/geant4-tuto/sim/build/CMakeFiles/tuto.dir
-/Users/ELMAHBOUBY/Desktop/GEANT4/works/geant4-tuto/sim/build/CMakeFiles/Tutorial.dir
-/Users/ELMAHBOUBY/Desktop/GEANT4/works/geant4-tuto/sim/build/CMakeFiles/edit_cache.dir
-/Users/ELMAHBOUBY/Desktop/GEANT4/works/geant4-tuto/sim/build/CMakeFiles/rebuild_cache.dir
