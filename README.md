@@ -1,4 +1,4 @@
-Attention: you are using a modified version of the hadontherapy example originally included in the official Geant4 release.
+ modified version of the hadontherapy example originally included in the official Geant4 release.
 The full README file is included below.
  
 To run this you need a working installation of Geant4 and ROOT. 
