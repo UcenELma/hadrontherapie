@@ -1,4 +1,4 @@
-## Hadrontherapy Simulation
+# Hadrontherapy Simulation
 
 This project simulates hadron therapy treatments using the Geant4 toolkit.
 
